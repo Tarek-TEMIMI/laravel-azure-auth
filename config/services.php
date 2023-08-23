@@ -30,7 +30,7 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
     'azure' => [    
-        'client_id' => env('xxx'),
+        'client_id' => env('AZURE_CLIENT_ID'),
         'client_secret' => env('bef5d26b-8117-4f37-8a32-5a7dc9141959'),
         'redirect' => env('https://laravel-azure-auth.test/login/azure'),
         'tenant' => env('B2C-Authentification-MSP'),

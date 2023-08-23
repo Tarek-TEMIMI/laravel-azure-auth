@@ -44,6 +44,6 @@
     </head>
     <body class="antialiased">
         
-    <a class="btn btn-primary" href="http://laravel-azure-auth.test/login/azure" role="button">Login</a>
+    <a class="btn btn-primary" href="http://localhost:8000/login/azure" role="button">Login</a>
     </body>
 </html>
